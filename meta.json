@@ -1,0 +1,29 @@
+{
+  "repo": "plotter-china-cad-drafting-suite",
+  "product": "Plotter China CAD Drafting Suite",
+  "kind": "cad",
+  "install_type": "nexpath",
+  "install_url": "https://plotter-china.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "cad",
+  "topics": [
+    "plotter-cad",
+    "cad-drafting",
+    "technical-drawing",
+    "2d-drafting",
+    "engineering-drawing",
+    "blueprint-tools",
+    "mechanical-design",
+    "architecture-drafting",
+    "plotter-setup-failed-fix",
+    "how-to-install-plotter-cad",
+    "plotter-windows",
+    "engineering-tools",
+    "windows-tools",
+    "cad-utility"
+  ],
+  "stars_cache": 21,
+  "nexpath_slug": "plotter-china",
+  "nexpath_app_name": "Plotter China"
+}
